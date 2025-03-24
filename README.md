@@ -128,6 +128,10 @@ chmod +x start_services.sh
     <td><a href="https://sjc-housing-prices.onrender.com/">Render</a>, <a href="https://aws.amazon.com/">AWS EC2</a></td>
   </tr>
   <tr>
+    <td>🌐 Reverse Proxy</td>
+    <td><a href="https://nginx.org/">NGINX</a></td>
+  </tr>
+  <tr>
     <td>💻 Testing</td>
     <td><a href="https://docs.pytest.org/en/stable"/>Pytest</a>, <a href="https://github.com/features/actions">GitHub Actions</a></td>
   </tr>
